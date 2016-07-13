@@ -24,3 +24,5 @@ http://highscalability.com/blog/2011/11/14/using-gossip-protocols-for-failure-de
 http://sbrc2010.inf.ufrgs.br/resources/presentations/tutorial/tutorial-montresor.pdf
 
 
+Use clojure? 
+
