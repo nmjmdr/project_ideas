@@ -1,5 +1,9 @@
 # Project Ideas:
 
+## raka - raft Kafka
+Combine ideas of raft and Kafka to build a topic based message queue
+Ref: http://blog.rodeo.io/2016/01/24/kudu-as-a-more-flexible-kafka.html
+
 ## raft-max
 Brings fault-tolerance to LMAX architecture
 Ref: http://stackoverflow.com/questions/23535740/lmax-replicator-design-how-to-support-high-availability
