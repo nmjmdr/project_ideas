@@ -30,3 +30,4 @@ http://sbrc2010.inf.ufrgs.br/resources/presentations/tutorial/tutorial-montresor
 
 Use clojure? 
 
+Note to self: more items on google drive keyword "potential ideas"
