@@ -4,6 +4,13 @@
 Combine ideas of raft and Kafka to build a topic based message queue
 Ref: http://blog.rodeo.io/2016/01/24/kudu-as-a-more-flexible-kafka.html
 
+project spec:
+1. kafka like pull-based model
+2. http and tcp end points
+3. durable storage of messages
+4. only once delivery (with unique event ids? (flake id)) (onus on client to determine if it has consumed the event)
+5. support for archiving of messages (through raft log archivial)
+
 ## raft-max
 Brings fault-tolerance to LMAX architecture
 Ref: http://stackoverflow.com/questions/23535740/lmax-replicator-design-how-to-support-high-availability
